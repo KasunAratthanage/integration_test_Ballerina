@@ -1,0 +1,2097 @@
+2018-08-24 12:38:17,479 - 151 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-24 12:38:17,479 - 611 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 566, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-24 12:57:17,445 - 151 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-24 12:57:17,446 - 611 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 566, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-24 13:06:40,004 - 151 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-24 13:06:40,005 - 611 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 566, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-24 14:12:44,855 - 151 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-24 14:12:44,856 - 611 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 566, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-24 14:13:10,997 - 151 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-24 14:13:10,998 - 611 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 566, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-24 14:15:20,823 - 151 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-24 14:15:20,823 - 611 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 566, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-24 14:15:48,767 - 151 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-24 14:15:48,767 - 611 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 566, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-24 14:17:28,866 - 151 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-24 14:17:28,866 - 611 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 566, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-24 14:48:58,573 - 151 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-24 14:48:58,573 - 611 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 566, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-27 13:53:05,633 - 613 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 565, in main
+    read_proprty_files()
+  File "run-intg-test.py", line 81, in read_proprty_files
+    test_plan_prop_path = Path(workspace + "/" + TEST_PLAN_PROPERTY_FILE_NAME)
+NameError: name 'Path' is not defined
+2018-08-27 13:54:54,799 - 613 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 565, in main
+    read_proprty_files()
+  File "run-intg-test.py", line 81, in read_proprty_files
+    test_plan_prop_path = Path(workspace + "/" + TEST_PLAN_PROPERTY_FILE_NAME)
+NameError: name 'Path' is not defined
+2018-08-27 13:58:24,296 - 612 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 564, in main
+    read_proprty_files()
+  File "run-intg-test.py", line 80, in read_proprty_files
+    test_plan_prop_path = Path(workspace + "/" + TEST_PLAN_PROPERTY_FILE_NAME)
+NameError: name 'Path' is not defined
+2018-08-27 14:01:37,310 - 612 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 564, in main
+    read_proprty_files()
+  File "run-intg-test.py", line 80, in read_proprty_files
+    test_plan_prop_path = Path(workspace + "/" + TEST_PLAN_PROPERTY_FILE_NAME)
+NameError: name 'Path' is not defined
+2018-08-27 14:02:38,526 - 153 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-27 14:02:38,527 - 613 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 568, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-27 14:11:24,883 - 153 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-27 14:11:24,884 - 613 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 568, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-27 14:14:15,347 - 153 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-27 14:14:15,348 - 613 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 568, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-27 14:22:19,789 - 153 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-27 14:22:19,789 - 613 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 568, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-27 15:29:42,600 - 153 - ERROR    - Invalid property file is found. Missing values:  -SQL_DRIVERS_LOCATION_<OS_Type>-  
+2018-08-27 15:29:42,600 - 613 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 568, in main
+    "Property file doesn't have mandatory key-value pair. Please verify the content of the property file "
+Exception: Property file doesn't have mandatory key-value pair. Please verify the content of the property file and the format
+2018-08-27 15:34:58,419 - 439 - INFO     - product repository cloning is done.
+2018-08-27 15:34:58,419 - 613 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 594, in main
+    dist_name = get_dist_name()
+  File "run-intg-test.py", line 319, in get_dist_name
+    dist_pom_path = Path(workspace + "/" + product_id + "/" + DIST_POM_PATH[product_id])
+KeyError: 'ballerina-lang'
+2018-08-27 15:47:19,454 - 439 - INFO     - product repository cloning is done.
+2018-08-27 15:47:19,455 - 613 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 595, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 525, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 510, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+NameError: name 'urllib2' is not defined
+2018-08-27 16:05:54,702 - 439 - INFO     - product repository cloning is done.
+2018-08-27 16:05:54,703 - 613 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 595, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 525, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 510, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+NameError: name 'urllib2' is not defined
+2018-08-27 16:07:29,056 - 439 - INFO     - product repository cloning is done.
+2018-08-27 16:07:29,057 - 613 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 595, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 525, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 510, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+NameError: name 'urllib2' is not defined
+2018-08-27 16:15:29,839 - 439 - INFO     - product repository cloning is done.
+2018-08-27 16:15:29,840 - 613 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 595, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 525, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 510, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+NameError: name 'urllib2' is not defined
+2018-08-27 16:16:01,648 - 439 - INFO     - product repository cloning is done.
+2018-08-27 16:16:01,649 - 613 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 595, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 525, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 510, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+NameError: name 'urllib2' is not defined
+2018-08-27 18:00:33,675 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:00:33,676 - 614 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 596, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 525, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 510, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+NameError: name 'urllib2' is not defined
+2018-08-27 18:01:34,692 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:01:34,694 - 614 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 596, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 525, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 510, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+NameError: name 'urllib2' is not defined
+2018-08-27 18:05:51,682 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:05:51,683 - 614 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 596, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 525, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 510, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+NameError: name 'urllib2' is not defined
+2018-08-27 18:08:38,028 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:08:39,789 - 614 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 596, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 526, in get_latest_stable_dist
+    build_num_artifact = re.sub(r'http.//(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}):(\d{1,5})', "https://wso2.org", build_num_artifact)
+  File "/usr/lib/python3.6/re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or bytes-like object
+2018-08-27 18:13:26,050 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:13:27,830 - 615 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 597, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 526, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-27 18:23:02,784 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:23:04,302 - 616 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 598, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 527, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-27 18:26:06,748 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:26:08,203 - 617 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 599, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 528, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-27 18:27:08,440 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:27:09,901 - 617 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 599, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 528, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-27 18:28:01,046 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:28:02,543 - 617 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 599, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 529, in get_latest_stable_dist
+    build_num_artifact = re.sub(r'http.//(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}):(\d{1,5})', "https://wso2.org", build_num_artifact)
+  File "/usr/lib/python3.6/re.py", line 191, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or bytes-like object
+2018-08-27 18:28:38,752 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:28:40,297 - 617 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 599, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 528, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-27 18:32:33,740 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:32:35,089 - 617 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 599, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 527, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 511, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-27 18:32:59,956 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:33:01,446 - 617 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 599, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 527, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 511, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-27 18:33:57,546 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:33:59,026 - 617 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 599, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 527, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 511, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-27 18:36:12,095 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:36:13,529 - 617 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 599, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 527, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 511, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-27 18:44:30,835 - 439 - INFO     - product repository cloning is done.
+2018-08-27 18:44:32,361 - 617 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 599, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 528, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-27 19:03:56,017 - 439 - INFO     - product repository cloning is done.
+2018-08-27 19:04:02,177 - 452 - INFO     - checkout to the branch: tags/v0.981.1
+2018-08-27 19:04:03,889 - 617 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 595, in main
+    get_latest_released_dist()
+  File "run-intg-test.py", line 500, in get_latest_released_dist
+    raise Exception("Error occured while getting relative path")
+Exception: Error occured while getting relative path
+2018-08-27 19:23:28,072 - 439 - INFO     - product repository cloning is done.
+2018-08-27 19:23:31,065 - 617 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 599, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 528, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-27 19:27:22,001 - 439 - INFO     - product repository cloning is done.
+2018-08-27 19:27:24,927 - 618 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 600, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 529, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-27 19:35:01,100 - 439 - INFO     - product repository cloning is done.
+2018-08-27 19:35:03,383 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-27 20:14:10,062 - 439 - INFO     - product repository cloning is done.
+2018-08-27 20:14:13,018 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-27 20:17:23,625 - 439 - INFO     - product repository cloning is done.
+2018-08-27 20:17:26,549 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-27 20:18:04,471 - 439 - INFO     - product repository cloning is done.
+2018-08-27 20:18:07,392 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-27 20:20:08,378 - 439 - INFO     - product repository cloning is done.
+2018-08-27 20:20:11,157 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 09:10:37,689 - 439 - INFO     - product repository cloning is done.
+2018-08-28 09:10:40,631 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 09:23:19,535 - 439 - INFO     - product repository cloning is done.
+2018-08-28 09:23:22,475 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 09:23:57,413 - 439 - INFO     - product repository cloning is done.
+2018-08-28 09:24:00,390 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 09:24:32,555 - 439 - INFO     - product repository cloning is done.
+2018-08-28 09:24:35,485 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 09:25:06,945 - 439 - INFO     - product repository cloning is done.
+2018-08-28 09:25:09,847 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 09:38:00,374 - 439 - INFO     - product repository cloning is done.
+2018-08-28 09:38:00,376 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 529, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 511, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 524, in open
+    req = meth(req)
+  File "/usr/lib/python3.6/urllib/request.py", line 1241, in do_request_
+    raise URLError('no host given')
+urllib.error.URLError: <urlopen error no host given>
+2018-08-28 09:38:54,305 - 439 - INFO     - product repository cloning is done.
+2018-08-28 09:38:57,070 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 09:41:18,867 - 439 - INFO     - product repository cloning is done.
+2018-08-28 09:41:21,367 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 09:43:42,301 - 439 - INFO     - product repository cloning is done.
+2018-08-28 09:43:44,732 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 09:45:12,913 - 439 - INFO     - product repository cloning is done.
+2018-08-28 09:45:12,916 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 529, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 511, in get_latest_stable_artifacts_api
+    dom = minidom.parse(urllib2.urlopen(latest_product_build_artifacts_api + "xml"))
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 524, in open
+    req = meth(req)
+  File "/usr/lib/python3.6/urllib/request.py", line 1241, in do_request_
+    raise URLError('no host given')
+urllib.error.URLError: <urlopen error no host given>
+2018-08-28 09:46:42,430 - 439 - INFO     - product repository cloning is done.
+2018-08-28 09:46:45,015 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 10:13:19,436 - 439 - INFO     - product repository cloning is done.
+2018-08-28 10:13:24,438 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 10:28:59,085 - 439 - INFO     - product repository cloning is done.
+2018-08-28 10:29:03,388 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 10:31:10,221 - 439 - INFO     - product repository cloning is done.
+2018-08-28 10:31:14,772 - 620 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 602, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 10:33:54,939 - 439 - INFO     - product repository cloning is done.
+2018-08-28 10:34:01,156 - 620 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 602, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 11:29:03,264 - 439 - INFO     - product repository cloning is done.
+2018-08-28 11:29:07,801 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 11:53:25,671 - 439 - INFO     - product repository cloning is done.
+2018-08-28 11:53:30,251 - 619 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 601, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 12:09:07,506 - 439 - INFO     - product repository cloning is done.
+2018-08-28 12:09:14,381 - 620 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 602, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 518, in get_latest_stable_artifacts_api
+    print("=======canonical_name.firstChild===========" + canonical_name.firstChild)
+TypeError: must be str, not Text
+2018-08-28 12:10:30,288 - 439 - INFO     - product repository cloning is done.
+2018-08-28 12:10:34,612 - 620 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 602, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 531, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 12:23:28,322 - 439 - INFO     - product repository cloning is done.
+2018-08-28 12:23:31,455 - 620 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 602, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 530, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 513, in get_latest_stable_artifacts_api
+    print("=======main_artifact_elements===========" + main_artifact_elements)
+TypeError: must be str, not NodeList
+2018-08-28 12:24:55,943 - 439 - INFO     - product repository cloning is done.
+2018-08-28 12:24:59,096 - 620 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 602, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 531, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 12:27:13,066 - 439 - INFO     - product repository cloning is done.
+2018-08-28 12:27:16,372 - 621 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 603, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 531, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 515, in get_latest_stable_artifacts_api
+    print("==============main_artifact========="+main_artifact)
+TypeError: must be str, not Element
+2018-08-28 12:27:52,344 - 439 - INFO     - product repository cloning is done.
+2018-08-28 12:27:55,464 - 621 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 603, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 532, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 12:29:49,682 - 439 - INFO     - product repository cloning is done.
+2018-08-28 12:29:52,870 - 622 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 604, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 533, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 12:32:03,776 - 439 - INFO     - product repository cloning is done.
+2018-08-28 12:32:07,245 - 622 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 604, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 533, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 12:34:03,360 - 439 - INFO     - product repository cloning is done.
+2018-08-28 12:34:06,845 - 623 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 605, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 534, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 12:36:54,885 - 439 - INFO     - product repository cloning is done.
+2018-08-28 12:36:57,170 - 623 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 605, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 534, in get_latest_stable_dist
+    print("==============================" + build_num_artifact)
+TypeError: must be str, not NoneType
+2018-08-28 15:31:09,797 - 441 - INFO     - product repository cloning is done.
+2018-08-28 15:31:12,885 - 625 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 607, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 535, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 527, in get_latest_stable_artifacts_api
+    print("======parent_node============" + parent_node)
+TypeError: must be str, not Element
+2018-08-28 15:38:57,514 - 441 - INFO     - product repository cloning is done.
+2018-08-28 15:39:04,755 - 625 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 607, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 544, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 15:41:54,670 - 441 - INFO     - product repository cloning is done.
+2018-08-28 15:42:01,061 - 625 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 607, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 544, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 15:54:15,075 - 441 - INFO     - product repository cloning is done.
+2018-08-28 15:54:20,442 - 625 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 607, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 544, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 16:42:40,029 - 441 - INFO     - product repository cloning is done.
+2018-08-28 16:42:46,927 - 625 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 607, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 544, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 16:55:24,264 - 441 - INFO     - product repository cloning is done.
+2018-08-28 16:55:35,876 - 625 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 607, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 544, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 17:17:48,523 - 441 - INFO     - product repository cloning is done.
+2018-08-28 17:17:54,523 - 625 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 607, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 544, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 17:38:19,351 - 441 - INFO     - product repository cloning is done.
+2018-08-28 17:38:25,771 - 625 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 607, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 544, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 17:41:48,641 - 441 - INFO     - product repository cloning is done.
+2018-08-28 17:41:55,087 - 626 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 608, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 545, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 17:45:41,004 - 441 - INFO     - product repository cloning is done.
+2018-08-28 17:45:47,278 - 626 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 608, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 545, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 17:50:34,715 - 441 - INFO     - product repository cloning is done.
+2018-08-28 17:50:41,095 - 626 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 608, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 545, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 17:51:43,446 - 441 - INFO     - product repository cloning is done.
+2018-08-28 17:51:49,822 - 625 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 607, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 544, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 18:00:54,665 - 441 - INFO     - product repository cloning is done.
+2018-08-28 18:01:01,187 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 546, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 18:06:02,013 - 441 - INFO     - product repository cloning is done.
+2018-08-28 18:06:04,841 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 537, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 529, in get_latest_stable_artifacts_api
+    print("======parent_node============" + parent_node)
+TypeError: must be str, not Element
+2018-08-28 18:28:05,029 - 441 - INFO     - product repository cloning is done.
+2018-08-28 18:28:07,983 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 537, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 529, in get_latest_stable_artifacts_api
+    print("======parent_node============" + parent_node)
+TypeError: must be str, not Element
+2018-08-28 18:29:21,193 - 441 - INFO     - product repository cloning is done.
+2018-08-28 18:29:24,026 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 537, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 529, in get_latest_stable_artifacts_api
+    print("======parent_node============" + main_artifact.parentNode)
+TypeError: must be str, not Element
+2018-08-28 18:32:42,101 - 441 - INFO     - product repository cloning is done.
+2018-08-28 18:32:44,889 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 537, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 529, in get_latest_stable_artifacts_api
+    print("======parent_node============" + parent_node)
+TypeError: must be str, not Element
+2018-08-28 18:45:54,736 - 441 - INFO     - product repository cloning is done.
+2018-08-28 18:45:57,581 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 537, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 528, in get_latest_stable_artifacts_api
+    print("======parent_node============" + main_artifact.parentNode)
+TypeError: must be str, not Element
+2018-08-28 18:54:40,793 - 441 - INFO     - product repository cloning is done.
+2018-08-28 18:54:43,693 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 537, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 528, in get_latest_stable_artifacts_api
+    print("======parent_node============" + main_artifact.parentNode)
+TypeError: must be str, not Element
+2018-08-28 18:56:53,059 - 441 - INFO     - product repository cloning is done.
+2018-08-28 18:56:58,631 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 537, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 528, in get_latest_stable_artifacts_api
+    print("======parent_node============" + main_artifact.parentNode)
+TypeError: must be str, not Element
+2018-08-28 19:08:48,369 - 441 - INFO     - product repository cloning is done.
+2018-08-28 19:08:56,484 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 546, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 19:09:37,646 - 441 - INFO     - product repository cloning is done.
+2018-08-28 19:09:42,137 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 537, in get_latest_stable_dist
+    build_num_artifact = get_latest_stable_artifacts_api()
+  File "run-intg-test.py", line 528, in get_latest_stable_artifacts_api
+    print("======parent_node============" + main_artifact.parentNode)
+TypeError: must be str, not Element
+2018-08-28 19:10:06,524 - 441 - INFO     - product repository cloning is done.
+2018-08-28 19:10:14,506 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 546, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 19:11:03,034 - 441 - INFO     - product repository cloning is done.
+2018-08-28 19:11:10,907 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 546, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 19:27:35,730 - 441 - INFO     - product repository cloning is done.
+2018-08-28 19:27:41,879 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 546, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 19:36:58,488 - 441 - INFO     - product repository cloning is done.
+2018-08-28 19:37:03,897 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 546, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 19:44:19,200 - 441 - INFO     - product repository cloning is done.
+2018-08-28 19:44:24,620 - 627 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 609, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 546, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 19:54:39,086 - 441 - INFO     - product repository cloning is done.
+2018-08-28 19:54:44,561 - 628 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 610, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 547, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 19:57:40,789 - 441 - INFO     - product repository cloning is done.
+2018-08-28 19:57:48,190 - 629 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 611, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 548, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 20:00:01,039 - 441 - INFO     - product repository cloning is done.
+2018-08-28 20:00:07,526 - 630 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 612, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 549, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 20:01:27,565 - 441 - INFO     - product repository cloning is done.
+2018-08-28 20:01:35,578 - 630 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 612, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 549, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 199, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 20:08:08,830 - 443 - INFO     - product repository cloning is done.
+2018-08-28 20:08:15,098 - 632 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 614, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 551, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 201, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-28 20:11:12,143 - 443 - INFO     - product repository cloning is done.
+2018-08-28 20:11:18,500 - 632 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 614, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 551, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 201, in download_file
+    wget.download(str(url), destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-29 09:37:16,156 - 443 - INFO     - product repository cloning is done.
+2018-08-29 09:37:21,505 - 632 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 614, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 551, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 201, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-29 09:37:36,336 - 443 - INFO     - product repository cloning is done.
+2018-08-29 09:37:41,557 - 632 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 614, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 551, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 201, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-29 09:38:44,147 - 443 - INFO     - product repository cloning is done.
+2018-08-29 09:38:50,207 - 632 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 614, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 551, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 201, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-29 09:39:01,373 - 443 - INFO     - product repository cloning is done.
+2018-08-29 09:39:07,299 - 632 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 614, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 551, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 201, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-29 09:43:08,294 - 443 - INFO     - product repository cloning is done.
+2018-08-29 09:43:14,444 - 632 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 614, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 551, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 201, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-29 10:12:42,151 - 443 - INFO     - product repository cloning is done.
+2018-08-29 10:12:48,506 - 633 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 615, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 552, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 201, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-29 10:14:51,865 - 443 - INFO     - product repository cloning is done.
+2018-08-29 10:14:58,025 - 633 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 615, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 552, in get_latest_stable_dist
+    download_file(dist_downl_url, str(get_product_file_path()))
+  File "run-intg-test.py", line 201, in download_file
+    wget.download(url, destination)
+  File "/usr/local/lib/python3.6/dist-packages/wget.py", line 526, in download
+    (tmpfile, headers) = ulib.urlretrieve(binurl, tmpfile, callback)
+  File "/usr/lib/python3.6/urllib/request.py", line 248, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "/usr/lib/python3.6/urllib/request.py", line 223, in urlopen
+    return opener.open(url, data, timeout)
+  File "/usr/lib/python3.6/urllib/request.py", line 532, in open
+    response = meth(req, response)
+  File "/usr/lib/python3.6/urllib/request.py", line 642, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/usr/lib/python3.6/urllib/request.py", line 570, in error
+    return self._call_chain(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 504, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.6/urllib/request.py", line 650, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+2018-08-29 10:18:08,323 - 443 - INFO     - product repository cloning is done.
+2018-08-29 10:18:12,931 - 634 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 616, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 552, in get_latest_stable_dist
+    urllib.request.urlretrieve(dist_downl_url, str(get_product_file_path()))
+NameError: name 'urllib' is not defined
+2018-08-29 10:19:19,900 - 443 - INFO     - product repository cloning is done.
+2018-08-29 10:19:49,760 - 554 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 10:19:49,761 - 634 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 622, in main
+    db_names = cp.configure_product(dist_name, product_id, database_config, workspace, product_version)
+NameError: name 'cp' is not defined
+2018-08-29 10:30:49,278 - 443 - INFO     - product repository cloning is done.
+2018-08-29 10:30:53,752 - 635 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 617, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 553, in get_latest_stable_dist
+    cp.extract_product(str(get_product_file_path()))
+  File "/home/kasun/ballerinatestrepo/configure_product.py", line 73, in extract_product
+    if Path.exists(path):
+  File "/usr/lib/python3.6/pathlib.py", line 1334, in exists
+    self.stat()
+AttributeError: 'str' object has no attribute 'stat'
+2018-08-29 10:37:37,304 - 443 - INFO     - product repository cloning is done.
+2018-08-29 10:37:41,578 - 555 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 10:37:41,578 - 635 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 625, in main
+    raise Exception("Failed the product configuring")
+Exception: Failed the product configuring
+2018-08-29 10:41:07,706 - 443 - INFO     - product repository cloning is done.
+2018-08-29 10:41:11,808 - 555 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 10:41:11,809 - 635 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 624, in main
+    if db_names is None or not db_names:
+NameError: name 'db_names' is not defined
+2018-08-29 10:49:40,564 - 443 - INFO     - product repository cloning is done.
+2018-08-29 10:49:44,669 - 555 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 10:49:44,669 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 624, in main
+    if db_names is None or not db_names:
+NameError: name 'db_names' is not defined
+2018-08-29 10:55:04,384 - 443 - INFO     - product repository cloning is done.
+2018-08-29 10:55:08,381 - 637 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 618, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 553, in get_latest_stable_dist
+    print("******get_product_file_path*****"+get_product_file_path)
+TypeError: must be str, not function
+2018-08-29 11:04:35,058 - 443 - INFO     - product repository cloning is done.
+2018-08-29 11:04:39,080 - 637 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 618, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 553, in get_latest_stable_dist
+    print("******get_product_file_path*****"+ get_product_file_path)
+TypeError: must be str, not function
+2018-08-29 11:06:33,596 - 443 - INFO     - product repository cloning is done.
+2018-08-29 11:06:39,459 - 556 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 11:06:39,459 - 637 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 625, in main
+    if db_names is None or not db_names:
+NameError: name 'db_names' is not defined
+2018-08-29 11:09:29,351 - 443 - INFO     - product repository cloning is done.
+2018-08-29 11:09:33,274 - 556 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 11:09:33,275 - 637 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 626, in main
+    raise Exception("Failed the product configuring")
+Exception: Failed the product configuring
+2018-08-29 11:12:00,783 - 443 - INFO     - product repository cloning is done.
+2018-08-29 11:12:04,811 - 638 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 619, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 555, in get_latest_stable_dist
+    cp.extract_product(extract_path)
+  File "/home/kasun/ballerinatestrepo/configure_product.py", line 73, in extract_product
+    if Path.exists(path):
+  File "/usr/lib/python3.6/pathlib.py", line 1334, in exists
+    self.stat()
+AttributeError: 'str' object has no attribute 'stat'
+2018-08-29 11:12:59,373 - 443 - INFO     - product repository cloning is done.
+2018-08-29 11:13:04,443 - 557 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 11:13:04,443 - 638 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 627, in main
+    raise Exception("Failed the product configuring")
+Exception: Failed the product configuring
+2018-08-29 11:16:30,361 - 443 - INFO     - product repository cloning is done.
+2018-08-29 11:16:35,079 - 639 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 620, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 556, in get_latest_stable_dist
+    cp.extract_product("/home/kasun/ballerinatestrepo/storage/ballerina-0.981.2-SNAPSHOT.zip")
+  File "/home/kasun/ballerinatestrepo/configure_product.py", line 73, in extract_product
+    if Path.exists(path):
+  File "/usr/lib/python3.6/pathlib.py", line 1334, in exists
+    self.stat()
+AttributeError: 'str' object has no attribute 'stat'
+2018-08-29 11:55:14,078 - 443 - INFO     - product repository cloning is done.
+2018-08-29 11:55:19,403 - 639 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 620, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 556, in get_latest_stable_dist
+    cp.extract_product("/home/kasun/ballerinatestrepo/storage/ballerina-0.981.2-SNAPSHOT.zip")
+  File "/home/kasun/ballerinatestrepo/configure_product.py", line 73, in extract_product
+    if Path.exists(path):
+  File "/usr/lib/python3.6/pathlib.py", line 1334, in exists
+    self.stat()
+AttributeError: 'str' object has no attribute 'stat'
+2018-08-29 12:06:08,592 - 443 - INFO     - product repository cloning is done.
+2018-08-29 12:06:13,524 - 639 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 620, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 556, in get_latest_stable_dist
+    cp.extract_product("/home/kasun/ballerinatestrepo/storage/ballerina-0.981.2-SNAPSHOT.zip")
+  File "/home/kasun/ballerinatestrepo/configure_product.py", line 73, in extract_product
+    if Path.exists(path):
+  File "/usr/lib/python3.6/pathlib.py", line 1334, in exists
+    self.stat()
+AttributeError: 'str' object has no attribute 'stat'
+2018-08-29 12:16:19,445 - 443 - INFO     - product repository cloning is done.
+2018-08-29 12:16:23,110 - 639 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 620, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 555, in get_latest_stable_dist
+    print("****extract_path*****"+ extract_path)
+TypeError: must be str, not PosixPath
+2018-08-29 12:16:55,655 - 443 - INFO     - product repository cloning is done.
+2018-08-29 12:16:59,728 - 639 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 620, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 556, in get_latest_stable_dist
+    cp.extract_product("/home/kasun/ballerinatestrepo/storage/ballerina-0.981.2-SNAPSHOT.zip")
+  File "/home/kasun/ballerinatestrepo/configure_product.py", line 73, in extract_product
+    if Path.exists(path):
+  File "/usr/lib/python3.6/pathlib.py", line 1334, in exists
+    self.stat()
+AttributeError: 'str' object has no attribute 'stat'
+2018-08-29 12:18:54,269 - 443 - INFO     - product repository cloning is done.
+2018-08-29 12:18:58,191 - 639 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 620, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 556, in get_latest_stable_dist
+    cp.str(extract_product("/home/kasun/ballerinatestrepo/storage/ballerina-0.981.2-SNAPSHOT.zip"))
+AttributeError: module 'configure_product' has no attribute 'str'
+2018-08-29 12:24:02,790 - 443 - INFO     - product repository cloning is done.
+2018-08-29 12:24:06,641 - 649 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 630, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 556, in get_latest_stable_dist
+    path = cp.extract_product("/home/kasun/ballerinatestrepo/storage/ballerina-0.981.2-SNAPSHOT.zip")
+  File "/home/kasun/ballerinatestrepo/configure_product.py", line 73, in extract_product
+    if Path.exists(path):
+  File "/usr/lib/python3.6/pathlib.py", line 1334, in exists
+    self.stat()
+AttributeError: 'str' object has no attribute 'stat'
+2018-08-29 12:26:37,693 - 443 - INFO     - product repository cloning is done.
+2018-08-29 12:26:42,414 - 639 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 620, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 556, in get_latest_stable_dist
+    cp.extract_product("/home/kasun/ballerinatestrepo/storage/ballerina-0.981.2-SNAPSHOT.zip")
+  File "/home/kasun/ballerinatestrepo/configure_product.py", line 73, in extract_product
+    if Path.exists(path):
+  File "/usr/lib/python3.6/pathlib.py", line 1334, in exists
+    self.stat()
+AttributeError: 'str' object has no attribute 'stat'
+2018-08-29 12:38:34,177 - 443 - INFO     - product repository cloning is done.
+2018-08-29 12:38:39,364 - 639 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 620, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 556, in get_latest_stable_dist
+    cp.extract_product('/home/kasun/ballerinatestrepo/storage/ballerina-0.981.2-SNAPSHOT.zip')
+  File "/home/kasun/ballerinatestrepo/configure_product.py", line 73, in extract_product
+    if Path.exists(path):
+  File "/usr/lib/python3.6/pathlib.py", line 1334, in exists
+    self.stat()
+AttributeError: 'str' object has no attribute 'stat'
+2018-08-29 12:48:44,138 - 443 - INFO     - product repository cloning is done.
+2018-08-29 12:48:49,079 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 12:48:49,079 - 639 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 628, in main
+    raise Exception("Failed the product configuring")
+Exception: Failed the product configuring
+2018-08-29 12:52:52,775 - 443 - INFO     - product repository cloning is done.
+2018-08-29 12:52:57,603 - 639 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 620, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 556, in get_latest_stable_dist
+    cp.extract_product(Path('/home/kasun/ballerinatestrepo/storage/ballerina-0.981.2-SNAPSHOT.zip'))
+  File "/home/kasun/ballerinatestrepo/configure_product.py", line 74, in extract_product
+    storage_dir_abs_path = Path(workspace + "/" + PRODUCT_STORAGE_DIR_NAME)
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'str'
+2018-08-29 12:58:31,378 - 443 - INFO     - product repository cloning is done.
+2018-08-29 12:58:36,250 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 12:58:36,250 - 639 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 628, in main
+    raise Exception("Failed the product configuring")
+Exception: Failed the product configuring
+2018-08-29 14:07:20,534 - 443 - INFO     - product repository cloning is done.
+2018-08-29 14:07:29,425 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 14:07:29,425 - 634 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 629, in main
+    add_distribution_to_m2()
+NameError: name 'add_distribution_to_m2' is not defined
+2018-08-29 14:15:25,608 - 443 - INFO     - product repository cloning is done.
+2018-08-29 14:15:30,637 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 14:15:30,637 - 635 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 629, in main
+    print("**********intg_module_path************"+intg_module_path)
+TypeError: must be str, not PosixPath
+2018-08-29 14:17:03,174 - 443 - INFO     - product repository cloning is done.
+2018-08-29 14:17:07,386 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 14:17:07,386 - 635 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 629, in main
+    print("**********intg_module_path************" + intg_module_path)
+TypeError: must be str, not PosixPath
+2018-08-29 14:36:55,541 - 443 - INFO     - product repository cloning is done.
+2018-08-29 14:36:59,862 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 14:36:59,862 - 634 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 627, in main
+    print("**********intg_module_path************" + intg_module_path)
+UnboundLocalError: local variable 'intg_module_path' referenced before assignment
+2018-08-29 14:52:02,455 - 443 - INFO     - product repository cloning is done.
+2018-08-29 14:52:07,181 - 635 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 620, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 556, in get_latest_stable_dist
+    cp.extract_product(Path(str(get_product_file_path()), workspace))
+TypeError: extract_product() missing 1 required positional argument: 'ws'
+2018-08-29 14:55:44,133 - 443 - INFO     - product repository cloning is done.
+2018-08-29 14:55:48,612 - 635 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 620, in main
+    get_latest_stable_dist()
+  File "run-intg-test.py", line 556, in get_latest_stable_dist
+    cp.extract_product(Path(extract_path, workspace))
+TypeError: extract_product() missing 1 required positional argument: 'ws'
+2018-08-29 14:58:11,326 - 443 - INFO     - product repository cloning is done.
+2018-08-29 14:58:16,143 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 14:58:16,143 - 635 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 627, in main
+    print("**********intg_module_path************" + intg_module_path)
+UnboundLocalError: local variable 'intg_module_path' referenced before assignment
+2018-08-29 15:01:01,506 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:01:08,104 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:01:08,104 - 635 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 627, in main
+    print("**********intg_module_path************" + intg_module_path)
+UnboundLocalError: local variable 'intg_module_path' referenced before assignment
+2018-08-29 15:02:19,862 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:02:26,298 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:02:26,298 - 635 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 627, in main
+    print("**********intg_module_path************" + intg_module_path)
+UnboundLocalError: local variable 'intg_module_path' referenced before assignment
+2018-08-29 15:07:07,702 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:07:14,154 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:07:14,154 - 635 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 627, in main
+    print("**********intg_module_path************" + intg_module_path)
+UnboundLocalError: local variable 'intg_module_path' referenced before assignment
+2018-08-29 15:08:10,003 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:08:16,391 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:08:16,392 - 635 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 627, in main
+    print("**********intg_module_path************" + intg_module_path)
+UnboundLocalError: local variable 'intg_module_path' referenced before assignment
+2018-08-29 15:12:54,487 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:13:00,787 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:13:00,788 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 627, in main
+    print("**********intg_module_path************" + intg_module_path)
+UnboundLocalError: local variable 'intg_module_path' referenced before assignment
+2018-08-29 15:15:04,326 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:15:09,151 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:15:09,151 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 630, in main
+    shutil.copyfile(str(get_product_file_path()), target_distribution_path)
+  File "/usr/lib/python3.6/shutil.py", line 121, in copyfile
+    with open(dst, 'wb') as fdst:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kasun/ballerinatestrepo/ballerina-lang/modules/distribution/zip/ballerina/target'
+2018-08-29 15:21:19,056 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:21:23,903 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:21:23,904 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 630, in main
+    shutil.copyfile(str(get_product_file_path()), target_distribution_path)
+  File "/usr/lib/python3.6/shutil.py", line 121, in copyfile
+    with open(dst, 'wb') as fdst:
+IsADirectoryError: [Errno 21] Is a directory: '/home/kasun/ballerinatestrepo/ballerina-lang/distribution/zip/ballerina/target'
+2018-08-29 15:25:26,573 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:25:30,581 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:25:30,634 - 410 - INFO     - Start building a module. Module: /home/kasun/ballerinatestrepo/ballerina-lang/modules/distribution/zip/ballerina/target
+2018-08-29 15:25:30,635 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 632, in main
+    build_module(intg_module_path)
+  File "run-intg-test.py", line 418, in build_module
+    cwd=module_path)
+  File "/usr/lib/python3.6/subprocess.py", line 267, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/lib/python3.6/subprocess.py", line 709, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/python3.6/subprocess.py", line 1344, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/modules/distribution/zip/ballerina/target'): PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/modules/distribution/zip/ballerina/target')
+2018-08-29 15:32:26,488 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:32:30,679 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:32:30,679 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 630, in main
+    shutil.copyfile(str(get_product_file_path()), target_distribution_path,onerror=on_rm_error)
+NameError: name 'on_rm_error' is not defined
+2018-08-29 15:40:06,376 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:40:10,343 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:40:10,343 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 630, in main
+    shutil.copyfile('str(get_product_file_path())', 'target_distribution_path')
+  File "/usr/lib/python3.6/shutil.py", line 120, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: 'str(get_product_file_path())'
+2018-08-29 15:40:42,961 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:40:47,140 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:41:19,369 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:41:23,453 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:41:23,513 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 631, in main
+    add_distribution_to_m2()
+NameError: name 'add_distribution_to_m2' is not defined
+2018-08-29 15:45:30,322 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:45:34,582 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:45:34,642 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 631, in main
+    add_distribution_to_m2()
+NameError: name 'add_distribution_to_m2' is not defined
+2018-08-29 15:46:34,405 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:46:39,157 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:46:39,216 - 410 - INFO     - Start building a module. Module: /home/kasun/ballerinatestrepo/ballerina-lang/modules/distribution/zip/ballerina/target
+2018-08-29 15:46:39,217 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 632, in main
+    build_module(intg_module_path)
+  File "run-intg-test.py", line 418, in build_module
+    cwd=module_path)
+  File "/usr/lib/python3.6/subprocess.py", line 267, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/lib/python3.6/subprocess.py", line 709, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/python3.6/subprocess.py", line 1344, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/modules/distribution/zip/ballerina/target'): PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/modules/distribution/zip/ballerina/target')
+2018-08-29 15:47:12,001 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:47:16,166 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:47:16,221 - 410 - INFO     - Start building a module. Module: /home/kasun/ballerinatestrepo/ballerina-lang/modules/distribution/zip/ballerina/target
+2018-08-29 15:47:16,222 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 632, in main
+    build_module(intg_module_path)
+  File "run-intg-test.py", line 418, in build_module
+    cwd=module_path)
+  File "/usr/lib/python3.6/subprocess.py", line 267, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/lib/python3.6/subprocess.py", line 709, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/python3.6/subprocess.py", line 1344, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/modules/distribution/zip/ballerina/target'): PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/modules/distribution/zip/ballerina/target')
+2018-08-29 15:52:26,292 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:52:30,485 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:52:30,485 - 637 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 629, in main
+    print("**********intg_module_path************" + intg_module_path)
+TypeError: must be str, not PosixPath
+2018-08-29 15:52:56,216 - 443 - INFO     - product repository cloning is done.
+2018-08-29 15:53:00,266 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 15:53:00,325 - 410 - INFO     - Start building a module. Module: /home/kasun/ballerinatestrepo/ballerina-lang/modules/distribution/zip/ballerina/target
+2018-08-29 15:53:00,326 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 632, in main
+    build_module(intg_module_path)
+  File "run-intg-test.py", line 418, in build_module
+    cwd=module_path)
+  File "/usr/lib/python3.6/subprocess.py", line 267, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/lib/python3.6/subprocess.py", line 709, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/python3.6/subprocess.py", line 1344, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/modules/distribution/zip/ballerina/target'): PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/modules/distribution/zip/ballerina/target')
+2018-08-29 16:21:58,048 - 443 - INFO     - product repository cloning is done.
+2018-08-29 16:22:02,751 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 16:22:02,811 - 410 - INFO     - Start building a module. Module: /home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests/ballerina-integration-test/src/test/resources
+2018-08-29 16:22:02,812 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 632, in main
+    build_module(intg_module_path)
+  File "run-intg-test.py", line 418, in build_module
+    cwd=module_path)
+  File "/usr/lib/python3.6/subprocess.py", line 267, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/lib/python3.6/subprocess.py", line 709, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/python3.6/subprocess.py", line 1344, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests/ballerina-integration-test/src/test/resources'): PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests/ballerina-integration-test/src/test/resources')
+2018-08-29 16:22:30,422 - 443 - INFO     - product repository cloning is done.
+2018-08-29 16:22:35,313 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 16:22:35,372 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 633, in main
+    save_log_files()
+  File "run-intg-test.py", line 426, in save_log_files
+    log_file_paths = LOG_FILE_PATHS[product_id]
+KeyError: 'ballerina-lang'
+2018-08-29 16:24:41,495 - 443 - INFO     - product repository cloning is done.
+2018-08-29 16:24:46,247 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 16:25:10,035 - 443 - INFO     - product repository cloning is done.
+2018-08-29 16:25:14,931 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 16:25:14,992 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 631, in main
+    add_distribution_to_m2()
+NameError: name 'add_distribution_to_m2' is not defined
+2018-08-29 16:25:54,036 - 443 - INFO     - product repository cloning is done.
+2018-08-29 16:25:58,896 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 16:25:58,957 - 410 - INFO     - Start building a module. Module: /home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests/ballerina-integration-test/src/test/resources
+2018-08-29 16:25:58,959 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 632, in main
+    build_module(intg_module_path)
+  File "run-intg-test.py", line 418, in build_module
+    cwd=module_path)
+  File "/usr/lib/python3.6/subprocess.py", line 267, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/lib/python3.6/subprocess.py", line 709, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/python3.6/subprocess.py", line 1344, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests/ballerina-integration-test/src/test/resources'): PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests/ballerina-integration-test/src/test/resources')
+2018-08-29 16:29:59,117 - 443 - INFO     - product repository cloning is done.
+2018-08-29 16:30:03,398 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 16:30:03,458 - 410 - INFO     - Start building a module. Module: /home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests/ballerina-integration-test/src/test/resources
+2018-08-29 16:30:03,460 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 632, in main
+    build_module(intg_module_path)
+  File "run-intg-test.py", line 418, in build_module
+    cwd=module_path)
+  File "/usr/lib/python3.6/subprocess.py", line 267, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/lib/python3.6/subprocess.py", line 709, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/python3.6/subprocess.py", line 1344, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests/ballerina-integration-test/src/test/resources': '/home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests/ballerina-integration-test/src/test/resources'
+2018-08-29 16:31:07,200 - 443 - INFO     - product repository cloning is done.
+2018-08-29 16:31:12,446 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 16:31:12,508 - 410 - INFO     - Start building a module. Module: /home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests/ballerina-integration-test/src/test/resources
+2018-08-29 16:31:12,509 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 632, in main
+    build_module(intg_module_path)
+  File "run-intg-test.py", line 418, in build_module
+    cwd=module_path)
+  File "/usr/lib/python3.6/subprocess.py", line 267, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/lib/python3.6/subprocess.py", line 709, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/python3.6/subprocess.py", line 1344, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests/ballerina-integration-test/src/test/resources'): PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests/ballerina-integration-test/src/test/resources')
+2018-08-29 16:37:06,986 - 443 - INFO     - product repository cloning is done.
+2018-08-29 16:37:21,117 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 16:37:21,176 - 410 - INFO     - Start building a module. Module: /home/kasun/ballerinatestrepo/ballerina-lang/tests/ballerina-integration-test/src/test/resources
+2018-08-29 16:37:22,347 - 419 - INFO     - Module build is completed. Module: /home/kasun/ballerinatestrepo/ballerina-lang/tests/ballerina-integration-test/src/test/resources
+2018-08-29 16:39:22,805 - 443 - INFO     - product repository cloning is done.
+2018-08-29 16:39:26,944 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 16:39:27,012 - 410 - INFO     - Start building a module. Module: /home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests
+2018-08-29 16:39:27,013 - 636 - ERROR    - Error occurred while running the run-intg.py script
+Traceback (most recent call last):
+  File "run-intg-test.py", line 632, in main
+    build_module(intg_module_path)
+  File "run-intg-test.py", line 418, in build_module
+    cwd=module_path)
+  File "/usr/lib/python3.6/subprocess.py", line 267, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/lib/python3.6/subprocess.py", line 709, in __init__
+    restore_signals, start_new_session)
+  File "/usr/lib/python3.6/subprocess.py", line 1344, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests'): PosixPath('/home/kasun/ballerinatestrepo/ballerina-lang/ballerina-lang/tests')
+2018-08-29 16:40:16,957 - 443 - INFO     - product repository cloning is done.
+2018-08-29 16:40:31,270 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 16:40:31,333 - 410 - INFO     - Start building a module. Module: /home/kasun/ballerinatestrepo/ballerina-lang/tests/ballerina-integration-test
+2018-08-29 16:50:01,832 - 419 - INFO     - Module build is completed. Module: /home/kasun/ballerinatestrepo/ballerina-lang/tests/ballerina-integration-test
+2018-08-29 16:56:49,796 - 443 - INFO     - product repository cloning is done.
+2018-08-29 16:56:53,733 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 16:56:53,794 - 410 - INFO     - Start building a module. Module: /home/kasun/ballerinatestrepo/ballerina-lang/tests/ballerina-integration-test
+2018-08-29 17:05:29,881 - 419 - INFO     - Module build is completed. Module: /home/kasun/ballerinatestrepo/ballerina-lang/tests/ballerina-integration-test
+2018-08-29 17:21:10,399 - 443 - INFO     - product repository cloning is done.
+2018-08-29 17:21:16,337 - 558 - INFO     - downloading the latest stable pack from Jenkins is completed.
+2018-08-29 17:21:16,396 - 410 - INFO     - Start building a module. Module: /home/kasun/ballerinatestrepo/ballerina-lang/tests/ballerina-integration-test
+2018-08-29 17:29:59,236 - 419 - INFO     - Module build is completed. Module: /home/kasun/ballerinatestrepo/ballerina-lang/tests/ballerina-integration-test
